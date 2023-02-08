@@ -1,4 +1,4 @@
-//Roni acharjee
+//Roni acharjee is a very good student
 import React,{useState, useEffect} from 'react'
 import { Navbar } from './Navbar'
 import { Products } from './Products'
